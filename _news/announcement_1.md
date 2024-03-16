@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am joing UW ECE as a Master's Student this September! :sparkles: :smile:
+I am joing UW ECE as a Master's Student this September!
