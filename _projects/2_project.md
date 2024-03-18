@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sickle Cell Disease Physician Chatbot
-description: a chatbot mobile app designed to support ER doctors with limited knowledge of Sickle Cell Disease, by providing access to accurate and timely clinical treatment guidelines for patient care.
+description: a chatbot app designed to assist ER doctors in accessing accurate and timely clinical guidelines to treat patients with sickle cell disease (SCD).
 img: assets/img/3.jpg
 importance: 2
 category: work
