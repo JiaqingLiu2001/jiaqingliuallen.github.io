@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm a 1st year Master's student at UW ECE. My interests are wearable sensing and smart healthcare.
+I'm a 1st year Master's student at UW ECE. My interests are in wearable sensing, smart healthcare and human-computer interactions.
 
 Before joining UW, I got my B.S. in Biomedical Engineering from Southwest Jiaotong University, where I was advised by Dr. Weili Deng.
 
