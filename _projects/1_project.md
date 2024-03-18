@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: CheerUp
+description: a music therapy project using a Raspberry Pi for visual emotion recognition to play mood-responsive music, aimed at cheering people up and enhancing their mental health.
 img: assets/img/12.jpg
 importance: 1
 category: work

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: Sickle Cell Disease Physician Chatbot
+description: a chatbot mobile app designed to support ER doctors with limited knowledge of Sickle Cell Disease, by providing access to accurate and timely clinical treatment guidelines for patient care.
 img: assets/img/3.jpg
 importance: 2
 category: work

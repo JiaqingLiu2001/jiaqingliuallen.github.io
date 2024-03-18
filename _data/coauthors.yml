@@ -1,3 +1,7 @@
+"Tian":
+  - firstname: ["Guo"]
+    url: https://scholar.google.com/citations?hl=en&user=gz-_ohcAAAAJ
+
 "Deng":
   - firstname: ["Weili"]
     url: https://scholar.google.com/citations?hl=en&user=3X-4YmUAAAAJ
@@ -5,10 +9,6 @@
 "Yang":
   - firstname: ["Weiqing"]
     url: https://scholar.google.com/citations?hl=en&user=08JS9C0AAAAJ
-
-"Tian":
-  - firstname: ["Guo"]
-    url: https://scholar.google.com/citations?hl=en&user=gz-_ohcAAAAJ
 
 "adams":
   - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
