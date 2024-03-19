@@ -2,7 +2,7 @@
 layout: page
 title: CheerUp
 description: A Raspberry Pi system that automatically detects users' facial emotions to play mood-responsive music, aiming to uplift and improve mental health.
-img: assets/img/12.jpg
+img: assets/img/cheerup-prof.jpg
 importance: 1
 category: work
 related_publications: true

@@ -20,4 +20,11 @@
       year: 2019 - 2023
       description:
         - GPA - 3.8
-        - Advised by Dr. Weili Deng
+        - Advised by Prof. Weili Deng
+
+- title: Honors
+  type: time_table
+  contents:
+    - year: 2020 - 2022
+      items:
+        - Two-time SWJTU Academic Excellence Scholarship recipient
