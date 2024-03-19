@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
 description: This page is still under maintanence, more cool projects coming!
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [Research, General]
 horizontal: false
 ---
 
